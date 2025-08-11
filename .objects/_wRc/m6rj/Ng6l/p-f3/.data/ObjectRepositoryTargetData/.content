@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Xv4_MkHcBUqGxzKFTOMqbQ" Reference="T8F3_XItH0i6pSHmc2VFyQ/p-f3I276gUCFAXCQkdfifA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" DesignTimeRectangle="743, 296, 75, 15" FullSelectorArgument="&lt;webctrl tag='I' innertext='4.0 out of 5 stars' isleaf='0' parentclass='a-popover-trigger a-declarative mvt-review-star-mini-popover' /&gt;" Guid="e395ea7b-c635-45fc-908e-4caec8eb2b60" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : bluetooth speaker with mic' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="68640e98476295eb539f7e7459ac76e7.png" xmlns="">09xbLFwHIeUKDg8ASjX9cfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

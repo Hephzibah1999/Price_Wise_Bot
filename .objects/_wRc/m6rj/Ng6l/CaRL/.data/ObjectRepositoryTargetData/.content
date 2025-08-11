@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Hv2ev3eyGkiajWm7Njkj_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" CVScreenId="b6b823de-49d9-4edd-8c4e-4532d371c7d4" CvType="AnyWordGroup" DesignTimeRectangle="1503, 572, 61, 44" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='SPAN' isleaf='1' parentclass='a-price' parentid='search' /&gt;" Guid="5e3fe4c1-40a4-400e-b0cd-374b5944a7d1" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : bluetooth speaker with mic' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b6b823de-49d9-4edd-8c4e-4532d371c7d4" CvTextArea="876, 445, 51, 17" CvTextArgument="M.R.P:" CvType="Text" DesignTimeRectangle="1569, 589, 54, 22" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='SPAN' isleaf='1' parentclass='a-section aok-inline-block' check:innerText='M.R.P:' /&gt;" Guid="ff6b57b3-a574-47b5-94f2-4aed9c6c9c02" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5891d008ee109888171e4655ba2d87ae.png" xmlns="">0PfU70U8btU-7_OJ17VrxiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

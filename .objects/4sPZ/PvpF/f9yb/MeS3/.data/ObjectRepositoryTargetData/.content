@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pOQ2AqlltkettC4f-AFksw" Reference="T8F3_XItH0i6pSHmc2VFyQ/MeS3_tHkxk2hAMehh9zuSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com" CVScreenId="3f8572f9-ea6a-494e-bb9e-7de759ed1357" CvElementArea="285, 174, 945, 53" CvType="InputBox" DesignTimeRectangle="344, 177, 886, 50" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="f7eaeab1-4331-4ccf-b72d-ddbe01f73c10" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books &amp;amp; More. Best Offers!' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="[NWaitForReady.Complete]">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="3f8572f9-ea6a-494e-bb9e-7de759ed1357" CvElementArea="285, 174, 945, 53" CvType="InputBox" DesignTimeRectangle="304, 187, 30, 30" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl tag='svg' type='' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Search Icon' /&gt;" Guid="d2414be0-213e-4569-8a94-1a60bf6dc3f0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2173c1f47ec0d01ed32e1c066835ac1.png" xmlns="">0m04kUIWPvEecVdEdRYj2Gw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

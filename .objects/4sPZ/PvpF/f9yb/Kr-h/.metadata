@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search Icon",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Kr-hViDrok2N7q5Ummjriw",
+  "Reference": "T8F3_XItH0i6pSHmc2VFyQ/Kr-hViDrok2N7q5Ummjriw",
+  "ParentRef": "T8F3_XItH0i6pSHmc2VFyQ/f9yblLjPvk2zD3968HLwKw",
+  "Created": "2025-08-06T17:22:56.8374325Z",
+  "Updated": "2025-08-06T17:22:56.8374325Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

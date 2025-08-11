@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4qi3BCzIfUyLcUdA3hQvew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com/search" DesignTimeRectangle="389, 814, 343, 56" ElementType="Text" FullSelectorArgument="&lt;webctrl class='wjcEIp' tag='A' /&gt;" Guid="7571793a-aac2-48ed-b0db-4c7ba8e2304a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Bluetooth Spk With Mic- Buy Products Online at Best Price in India - All Categories | Flipkart.com' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ac128c79464d8d1de310a0eb764790a0.png" xmlns="">0vLNqgHJd_0-WTk4d502zAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="78stRHZOv0mKCBRlOm7zGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com" CVScreenId="8c674d5c-0220-44b9-9229-7aa02facd1b7" CvElementArea="917, 252, 45, 45" CvType="CloseButton" DesignTimeRectangle="925, 255, 32, 40" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='button' tag='SPAN' /&gt;" Guid="bc50af8b-29b2-4b72-9ca1-a72f29508640" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books &amp;amp; More. Best Offers!' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ee4fea72a9ee13f07c6cee8a8c983e22.png" xmlns="">0jy5eFo-OgkGp_6qj0D535g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

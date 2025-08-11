@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (1758) Build a Shopping Robot  UiPath ",
+  "Type": "Screen",
+  "Id": "nlk_85ur8UGfSgVxbkxa0w",
+  "Reference": "T8F3_XItH0i6pSHmc2VFyQ/nlk_85ur8UGfSgVxbkxa0w",
+  "ParentRef": "T8F3_XItH0i6pSHmc2VFyQ/2yxe_dHw6E6iIAg-kNIsYQ",
+  "Created": "2025-08-06T13:55:26.6308227Z",
+  "Updated": "2025-08-06T13:55:26.6308227Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
